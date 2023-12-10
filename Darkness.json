@@ -1,6 +1,6 @@
 {
     "name": "Darkness",
-    "description": "This... is Hell.... it's Hell's scent.'",
+    "description": "This... is Hell.... it's Hell's scent.",
     "authors": [
         {
             "name": "Ari",
@@ -80,9 +80,9 @@
         "PRIMARY_DARK_700_ALPHA_60": "#14141499"
     },
   "background": {
-    "blur": 0,
+    "blur": 1,
     "url": "https://cdn.discordapp.com/attachments/564877417580331018/1183325122233384970/IMG_20231210_152822.jpg?ex=6587ec66&is=65757766&hm=c1869160fc6d0e087cce30b544ae52649ed19e45cafa11d99093a61e5d4522bf&",
-    "alpha": 0.5
+    "alpha": 0.42
   },
     "spec": 2
 }
